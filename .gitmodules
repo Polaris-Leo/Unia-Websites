@@ -1,0 +1,15 @@
+[submodule "projects/Unia-Admin-Bot"]
+	path = projects/Unia-Admin-Bot
+	url = https://github.com/Polaris-Leo/Unia-Admin-Bot.git
+[submodule "projects/Unia-Danmuku"]
+	path = projects/Unia-Danmuku
+	url = https://github.com/Polaris-Leo/Unia-Danmuku.git
+[submodule "projects/Unia-BiliBot"]
+	path = projects/Unia-BiliBot
+	url = https://github.com/Polaris-Leo/Unia-BiliBot.git
+[submodule "projects/Unia-Admin-APP"]
+	path = projects/Unia-Admin-APP
+	url = https://github.com/Polaris-Leo/Unia-Admin-APP.git
+[submodule "projects/Unia-BiliCookie"]
+	path = projects/Unia-BiliCookie
+	url = https://github.com/Polaris-Leo/Unia-BiliCookie.git
