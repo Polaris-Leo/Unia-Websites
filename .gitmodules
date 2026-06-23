@@ -10,3 +10,6 @@
 [submodule "projects/Unia-Admin"]
 	path = projects/Unia-Admin
 	url = https://github.com/Polaris-Leo/Unia-Admin.git
+[submodule "projects/Unia-Danmu"]
+	path = projects/Unia-Danmu
+	url = https://github.com/Polaris-Leo/Unia-Danmu.git
